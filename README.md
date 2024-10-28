@@ -1,10 +1,10 @@
 ## Browser Extension Starter Template
 This project is a boilerplate for building new chrome extensions. It is initialized with:
 
-* [Plasmo](https://www.plasmo.com/) extension framework
+* [Plasmo](https://www.plasmo.com/) (browser extension framework)
 * [React](https://react.dev/)
 * [TailwindCSS](https://tailwindcss.com/)
-* [shadcn]() (design system)
+* [shadcn]() (component design system)
 * [trpc-chrome](https://github.com/jlalmes/trpc-chrome) (typesafe messaging interface)
 #
 
