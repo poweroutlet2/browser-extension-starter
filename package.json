@@ -10,11 +10,6 @@
     "package": "plasmo package"
   },
   "dependencies": {
-    "@radix-ui/react-checkbox": "^1.1.2",
-    "@radix-ui/react-dialog": "^1.1.2",
-    "@radix-ui/react-label": "^2.1.0",
-    "@radix-ui/react-radio-group": "^1.2.1",
-    "@radix-ui/react-select": "^2.1.2",
     "@radix-ui/react-slot": "^1.1.0",
     "@trpc/client": "^10.45.2",
     "@trpc/server": "^10.45.2",
@@ -38,7 +33,7 @@
     "@types/react-dom": "18.2.18",
     "postcss": "8.4.33",
     "prettier": "3.2.4",
-    "svgo": "^3.0.2",
+    "svgo": "^3.3.2",
     "typescript": "5.3.3"
   },
   "manifest": {
